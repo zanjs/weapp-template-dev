@@ -1,5 +1,7 @@
 ## weapp-template-dev
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/zanjs/weapp-template-dev.svg)](https://greenkeeper.io/)
+
 微信小程序构建工程模板
 
 ### install
